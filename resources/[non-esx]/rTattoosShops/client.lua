@@ -49,8 +49,8 @@ end)
 
 
 function MenuTattoosShops()
-    local MenuP = RageUI.CreateMenu('Tattoos', 'Fataliste')
-    local MenuS = RageUI.CreateSubMenu(MenuP, 'Tattoos', 'Fataliste')
+    local MenuP = RageUI.CreateMenu('Tattoos', 'RP')
+    local MenuS = RageUI.CreateSubMenu(MenuP, 'Tattoos', 'RP')
 	MenuP:SetRectangleBanner(11, 11, 11, 1)
 	MenuS:SetRectangleBanner(11, 11, 11, 1)
 	
