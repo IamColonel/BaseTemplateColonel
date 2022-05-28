@@ -1,0 +1,13 @@
+-- Citizen.CreateThread(function()
+--     while true do
+--         SetRichPresence(GetPlayerName(PlayerId()).. " - " ..#GetActivePlayers().. "/64")
+--         SetDiscordAppId(930511277099479042)
+--         SetDiscordRichPresenceAsset("fataliste") 
+--         SetDiscordRichPresenceAssetText("Rejoins nous !")
+--         SetDiscordRichPresenceAssetSmall("fataliste") 
+--         SetDiscordRichPresenceAssetSmallText("Clique sur le boutton en dessous !")
+--         SetDiscordRichPresenceAction(0, "🍻 Rejoindre", "fivem://connect/fivem03.fivehost.net:30141")
+--         SetDiscordRichPresenceAction(1, "🔗 Discord", "https://discord.gg/We4ANtqmmT")
+--         Citizen.Wait(4000)
+--     end
+-- end)
